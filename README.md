@@ -1,133 +1,125 @@
-<!-- Header -->
 <h1 align="center">Hi 👋, I'm Rishabh Pathak</h1>
-<h3 align="center">B.Tech CSE · Java Developer · Problem Solver · Open Source Enthusiast</h3>
+
+<h3 align="center">
+B.Tech CSE Student | Java Developer | Open Source Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=5C6BC0¢er=true&vCenter=true&width=650&lines=Java+Developer+%26+DSA+Problem+Solver;Building+P2P+%26+Security+Projects;Machine+Learning+Explorer;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Developer;DSA+Problem+Solver;Open+Source+Contributor;Building+AI+%26+Security+Projects" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rishabh-8755&label=Profile+Views&color=5C6BC0&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Rishabh-8755&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
+
+<div align="center">
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Computer Science — backend systems & AI focus
-- ☕ Strong foundation in **Java**, **DSA**, and algorithm design
-- 🔐 Building real-world projects in **security** and **P2P systems**
-- 🤖 Exploring **Machine Learning** and AI-powered applications
-- 🌱 Actively growing as an open source contributor
+🎓 **B.Tech Computer Science Student**  
+☕ **Passionate Java + DSA Problem Solver**  
+🔐 **Building Security & Real-World Projects**  
+🤖 **Exploring AI / Machine Learning**  
+🌱 **Open Source Contributor in Progress**
 
----
+</div>
 
-## 🏆 GitHub Trophies
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishabh-8755&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=4" />
-</p>
-
----
+<div align="center">
 
 ## 🔥 Featured Projects
 
-### ⛓️ [PeerLink — P2P File Sharing](https://github.com/Rishabh-8755)
-> Direct encrypted peer-to-peer file sharing — no cloud, no middleman.
+### ⛓ PeerLink — P2P File Sharing
+
+**Direct encrypted peer-to-peer file sharing system**
 
 `Java` `Next.js` `TCP Sockets` `TypeScript` `TailwindCSS`
 
-- ✅ End-to-end encrypted file transfer
-- ✅ Random invite code generation for session security
-- ✅ Zero cloud dependency — fully decentralized
-- ✅ One-time download system for added privacy
+⚡ Secure File Transfer  
+⚡ Random Invite Code Generation  
+⚡ No Cloud / No Middleman  
+⚡ One-Time Download System
 
 ---
 
-### ❤️ [Heart Disease Prediction Model](https://github.com/Rishabh-8755)
-> ML-powered cardiovascular risk assessment with an interactive web interface.
+### ❤️ Heart Disease Prediction Model
 
-`Python` `Machine Learning` `Flask` `HTML` `CSS` `JavaScript`
+**AI/ML based disease risk prediction system**
 
-- ✅ Health data analysis & pattern recognition
-- ✅ Predictive risk detection using trained ML model
-- ✅ Clean, interactive frontend for patient input
+`Python` `Machine Learning` `HTML` `CSS` `JavaScript`
+
+⚡ Health Data Analysis  
+⚡ Predictive Risk Detection  
+⚡ Interactive User Interface
 
 ---
 
-### ☕ [Java DSA Practice](https://github.com/Rishabh-8755)
-> Structured algorithms and data structures — optimized solutions, daily practice.
+### ☕ Java DSA Practice
+
+**Algorithms and problem-solving repository**
 
 `Java` `Data Structures` `Algorithms`
 
----
+⚡ Daily Coding Practice  
+⚡ Optimized Solutions
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh-8755&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh-8755&theme=tokyonight&hide_border=true" height="160" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-8755&layout=compact&theme=tokyonight&hide_border=true" height="140" />
-</p>
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Rishabh-8755&show_icons=true&theme=tokyonight" />
 
-## 🐍 Contribution Snake
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh-8755&theme=tokyonight" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishabh-8755/Rishabh-8755/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishabh-8755/Rishabh-8755/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rishabh-8755/Rishabh-8755/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-8755&layout=compact&theme=tokyonight" />
 
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-5C6BC0?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Frameworks & Tools**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**AI / ML**
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1D9E75?style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**DevOps & Version Control**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rishabh-pathak-95a077379/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Rishabh-8755">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:rp8585881@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+## 🛠 Tech Stack
 
 <p align="center">
-  <i>Building projects, solving problems, and growing as a developer — one commit at a time.</i>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:rp8585881@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rishabh-pathak-95a077379/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
