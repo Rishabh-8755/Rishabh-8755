@@ -17,10 +17,30 @@
 
 ---
 
-## 🔥 Featured Project
+## 🔥 Featured Projects
+
+### ⛓ PeerLink — P2P File Sharing
+Direct encrypted peer-to-peer file sharing using **Java + Next.js**
+
+**Tech Used:**  
+Java • Maven • TCP Sockets • Next.js • TypeScript • TailwindCSS
+
+**Features:**  
+- Secure direct file sharing  
+- No cloud / no middleman  
+- Random invite code generation  
+- One-time file transfer  
+- Real-time browser download
+
+---
 
 ### ❤️ Heart Disease Prediction Model
-AI/ML based disease prediction system
+AI/ML disease prediction system
+
+---
+
+### ☕ Java DSA Practice
+Problem-solving and algorithm implementation
 
 ---
 
