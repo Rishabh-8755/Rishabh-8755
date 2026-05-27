@@ -25,17 +25,13 @@ Direct encrypted peer-to-peer file sharing using **Java + Next.js**
 **Tech Used:**  
 Java • Maven • TCP Sockets • Next.js • TypeScript • TailwindCSS
 
-**Features:**  
-- Secure direct file sharing  
-- No cloud / no middleman  
-- Random invite code generation  
-- One-time file transfer  
-- Real-time browser download
-
 ---
 
 ### ❤️ Heart Disease Prediction Model
 AI/ML disease prediction system
+
+**Tech Used:**  
+Python • Machine Learning • HTML • CSS • JavaScript
 
 ---
 
