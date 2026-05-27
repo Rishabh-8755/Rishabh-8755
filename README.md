@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rishabh Pathak</h1>
+<h3 align="center">B.Tech CSE Student | Java Developer | Open Source Enthusiast</h3>
 
-<!--
-**Rishabh-8755/Rishabh-8755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Developer;DSA+Problem+Solver;Open+Source+Contributor;Building+AI+%26+Security+Projects" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.Tech CSE Student
+- ☕ Solving DSA in Java
+- 🌱 Learning Open Source
+- 🤖 Building AI & ML Projects
+- 💡 Exploring Real-world Development
+
+---
+
+## 🔥 Featured Project
+
+### ❤️ Heart Disease Prediction Model
+AI/ML based disease prediction system
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Rishabh-8755&show_icons=true&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishabh-8755&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-8755&layout=compact&theme=tokyonight)
+
+---
+
+## 🛠 Tech Stack
+
+Java  
+Python  
+HTML  
+CSS  
+JavaScript  
+Git  
+GitHub  
+Machine Learning
+
+---
+
+## 🌐 Connect With Me
+
+📧 rp8585881@gmail.com
