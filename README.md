@@ -12,16 +12,6 @@
 
 ## 🚀 About Me
 
-```yaml
-name       : Rishabh Pathak
-username   : Rishabh-8755
-location   : Agra, India
-education  : B.Tech Computer Science
-passion    : Java · DSA · AI/ML · Security
-status     : Open Source Contributor in Progress
-email      : rp8585881@gmail.com
-```
-
 - 🎓 **B.Tech Computer Science Student**
 - ☕ **Passionate Java + DSA Problem Solver**
 - 🔐 **Building Security & Real-World Projects**
